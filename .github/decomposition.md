@@ -63,3 +63,4 @@ Ancak, bozulma riskleri vardır:
 + (https://www.investopedia.com/terms/f/functional-decomposition.asp#:~:text=Functional%20decomposition%20is%20especially%20important,and%20simplify%20the%20programming%20process.)
 
 + (https://www.ealingindependentcollege.com/userfiles/files/GCSE%20specs/Decomposition%20and%20Abstraction_docx.pdf)
+
