@@ -69,4 +69,4 @@ LSP,yazılım gelişticiler tarafından baçvurulan bir yöntemdir.Müşterinin 
 + (https://kenanatmaca.com/liskov-substitution-principle-nedir/)
 + (https://www.jrebel.com/blog/solid-principles-in-java)
 + (https://reflectoring.io/lsp-explained/)
-+ (https://www.gokhan-gokalp.com/liskov-substitution-principle-lsp-liskovun-yerine-gecme-prensibi/)
++ (https://www.gokhan-gokalp.com/liskov-substitution-principle-lsp-liskovun-yerine-gecme-prensibi/) 
